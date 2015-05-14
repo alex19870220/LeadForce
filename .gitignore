@@ -1,43 +1,34 @@
-# Windows image file caches
-Thumbs.db
-ehthumbs.db
+# Laravel
+/bootstrap/compiled.php
+/vendor
 
-# Folder config file
-Desktop.ini
+# Environment Files
+.env.local.php
+.env.staging.php
+.env.php
 
-# Recycle Bin used on file shares
-$RECYCLE.BIN/
+# Configuration
+# Using env variables now
+#/app/config/local
+#/app/config/staging
+#/app/config/production
 
-# Windows Installer files
-*.cab
-*.msi
-*.msm
-*.msp
+# Basset development collections
+/public/assets/compiled/public
+/public/assets/compiled/admin
+/public/error_log
+/public/images/upload
 
-# Windows shortcuts
-*.lnk
+# Composer
+composer.phar
 
-# =========================
-# Operating System Files
-# =========================
-
-# OSX
-# =========================
-
+# OS
 .DS_Store
-.AppleDouble
-.LSOverride
+.idea/
+vagrant
+.vagrant
+Thumbs.db
 
-# Thumbnails
-._*
-
-# Files that might appear on external disk
-.Spotlight-V100
-.Trashes
-
-# Directories potentially created on remote AFP share
-.AppleDB
-.AppleDesktop
-Network Trash Folder
-Temporary Items
-.apdisk
+# Packages
+_ide_helpers.php
+rocketeer.phar

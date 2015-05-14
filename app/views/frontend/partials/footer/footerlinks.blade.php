@@ -1,0 +1,4 @@
+<li {{ (Route::is('project/privacy') ? 'class="active"' : '') }}><a href="{{ route('project/privacy', [$project->slug, $project->tld]) }}">Privacy Policy</a></li>
+<li {{ (Route::is('project/tos') ? 'class="active"' : '') }}><a href="{{ route('project/tos', [$project->slug, $project->tld]) }}">Terms of Service</a></li>
+<li {{ (Route::is('project/disclaimer') ? 'class="active"' : '') }}><a href="{{ route('project/disclaimer', [$project->slug, $project->tld]) }}">Disclaimer</a></li>
+<li {{ (Route::is('project/earnings-disclaimer') ? 'class="active"' : '') }}><a href="{{ route('project/earnings-disclaimer', [$project->slug, $project->tld]) }}">Earnings Disclaimer</a></li>

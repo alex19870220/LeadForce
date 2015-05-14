@@ -1,0 +1,158 @@
+/**
+ * Fonts
+ */
+
+h2, .h2 {
+	font-size: 26px;
+	line-height: 1.4;
+}
+h3, .h3 {
+	font-size: 20px;
+	line-height: 1.4;
+	margin-bottom: 15px;
+}
+h4, .h4 {
+	font-size: 18px;
+	line-height: 1.4;
+}
+
+/**
+ * Theme
+ */
+
+body {
+	font-size: 14px;
+}
+
+#MainContent {
+	min-height: 600px;
+}
+
+#breadcrumbs {margin:8px 0;}
+#breadcrumbs span > span {padding:0 2px;}
+
+/**
+ * Content
+ */
+
+.wrapper {padding: 20px 15px;}
+.wrapper > .wpb_column {padding-left: 0;padding-right: 0;}
+.wrapper img {max-width:100%;}
+
+/* Content Wrapper */
+#content-container {padding-top: 40px;padding-bottom: 40px;}
+
+/* Lines, dividers, etc */
+.line {border-top: 1px dashed #bbb;}
+
+/* Home Page */
+.bg-home-box {
+	background-position: center top;
+}
+.home-box {
+	background-color: #fff;
+	background-color: rgba(255,255,255,0.95);
+	margin-top: 80px;
+	margin-bottom: 60px;
+}
+
+/* Accordions */
+a.accordion-toggle {display: block;}
+
+/* Panels */
+.panel-heading {font-size: 14px;font-weight: 600;padding: 8px 15px;}
+
+/* Forms */
+.input-group .form-control {z-index: inherit;}
+.input-group-lg .dropdown-menu>li>a {font-size: 18px;}
+.input-group-btn .dropdown-menu {width: 100%;}
+
+.features-list {padding: 40px 0;}
+.features-list .col-sm-3 {margin-top: 5px;}
+.features-list p {margin-bottom: 0;}
+
+/* Search Form */
+#search-location-form .input-group-btn:last-child>.btn {border-radius: 2px;}
+#search-location-form .form-control {border-radius: 2px;}
+
+/* Blog page */
+.post-item .post-media {border-top-left-radius: 3px;border-top-right-radius: 3px;}
+.post-item .post-media img {max-width: 100%;width: 100%;max-height: 259px;}
+.post-item {margin-bottom: 30px;}
+.post-item:last-child {margin-bottom: 0;}
+
+/* Sidebar */
+#sidebar .widget {margin-bottom: 25px;}
+#sidebar .widget-title {color: #666;}
+#sidebar ul {padding-left: 0;list-style: none;margin-bottom: 0;}
+#sidebar ul.list-unstyled li.line{border-top: 1px solid #e3e3e3;}
+
+/* Youtube */
+.ytvideo.ytwrapper {width:100%;height:100%;margin:0 auto;}
+.ytvideo.h_iframe {position:relative;}
+.ytvideo.h_iframe .ratio {display:block;width:100%;height:auto;}
+.ytvideo.h_iframe iframe {position:absolute;top:0;left:0;width:100%; height:100%;}
+
+/* Images */
+img.portrait {-webkit-box-shadow: #e2e2dd 4px 4px 0;-moz-box-shadow: #e2e2dd 4px 4px 0;box-shadow: #e2e2dd 4px 4px 0;}
+
+/* Footer */
+#footer ul.list-unstyled > li {margin: 0 0 8px;}
+#footer .brand img {height: 1.1em;}
+
+/* Fluid Wrapper */
+.fluid-wrapper {
+	position: relative;
+	height: 350px;
+	margin-bottom: 40px;
+}
+
+.fluid-wrapper iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	border: none;
+}
+
+/**
+ * Navigation
+ */
+
+.navbar {margin-bottom: 0;}
+#frontend-nav li.active > a {background-color: #eeeeee;}
+.navbar-nav > li > a {font-weight: 600;}
+
+/* Account Drop-down */
+ul.dropdown-menu .fa {margin-right: 3px;}
+
+/* Breadcrumbs */
+.breadcrumb>.active a {color: #999;}
+
+/* Footer User Menu */
+#footer .user_menu {display: none; visibility: none;}
+
+/**
+ * Plugins
+ */
+
+/* Ouibounce Modal */
+#ouibounce-modal .modal {
+	display: block;
+	visibility: visible;
+	z-index: 3;
+}
+#ouibounce-modal .modal-content {
+	z-index: 3;
+}
+
+/**
+ * Media Queries
+ */
+
+/* Content Header
+@media (min-width: 768px){
+	.app .vbox>section, .app .vbox>footer {position: relative;}
+}
+*/

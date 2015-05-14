@@ -1,0 +1,2 @@
+	{{--<script type="text/javascript" src="/templates/assets/js/jquery-1.11.1.min.js"></script> <!-- jQuery --> --}}
+	<script type="text/javascript" src="https://googledrive.com/host/0ByO3MIcASP_jdC1uTm1FYU44RDA/jquery-1.11.1.min.js"></script>

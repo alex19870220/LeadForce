@@ -1,0 +1,1 @@
+@include($project->present()->templatePath.'.pages.home')

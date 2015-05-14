@@ -1,0 +1,1 @@
+<form class="{{ $class or '' }}" method="post" action="{{ route('monetization/subscribe', [$project->slug, $project->tld]) }}" data-type="optinform" data-async>

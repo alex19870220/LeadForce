@@ -1,0 +1,2 @@
+<title>{{ Shortcodes::process(trimSpace($niche->present()->metaTitle($__env->yieldContent('title')))) }}</title>
+	<meta name="description" content="{{ Shortcodes::process($niche->present()->metaDescription) }}" />

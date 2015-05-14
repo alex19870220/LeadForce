@@ -1,0 +1,62 @@
+{
+	"name": "laravel/laravel",
+	"description": "The Laravel Framework.",
+	"keywords": ["framework", "laravel"],
+	"license": "MIT",
+	"require": {
+		"laravel/framework": "4.2.*",
+		"cartalyst/sentry": "2.1.*",
+		"chuyskywalker/rolling-curl": "*",
+		"davejamesmiller/laravel-breadcrumbs": "~2.3.0",
+		"indatus/dispatcher": "~1.4",
+		"laracasts/commander": "~1.0",
+		"laracasts/flash": "~1.0",
+		"laracasts/presenter": "0.1.*",
+		"league/csv": "5.4.*",
+		"pingpong/widget": "1.0.*",
+		"roumen/sitemap": "dev-master",
+		"seostats/seostats": "dev-master"
+	},
+	"minimum-stability" : "dev",
+	"require-dev": {
+		"barryvdh/laravel-ide-helper": "~1.9",
+		"doctrine/dbal": "~2.3",
+		"fabpot/goutte": "~2.0",
+		"itsgoingd/clockwork": "1.*",
+		"phpunit/phpunit": "4.3.0",
+		"way/generators": "2.*"
+	},
+	"minimum-stability" : "dev",
+	"autoload": {
+		"classmap": [
+			"app/commands",
+			"app/controllers",
+			"app/models",
+			"app/database/migrations",
+			"app/database/seeds"
+		],
+		"psr-4": {
+			"Acme\\": "app/Acme"
+		},
+		"files": [
+			"app/Acme/Helpers.php"
+		]
+	},
+	"scripts": {
+		"pre-update-cmd": [
+			"php artisan clear-compiled"
+		],
+		"post-install-cmd": [
+			"php artisan clear-compiled",
+            "php artisan optimize"
+		],
+		"post-update-cmd": [
+			"php artisan clear-compiled",
+            "php artisan optimize"
+		]
+	},
+	"config": {
+		"preferred-install": "dist"
+	},
+	"minimum-stability": "dev"
+}

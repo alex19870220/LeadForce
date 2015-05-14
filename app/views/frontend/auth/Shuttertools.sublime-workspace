@@ -1,0 +1,665 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"GrabGener",
+				"GrabGenericSentences"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/D/wamp/www/html/laravel/laravel/app/config/app.php",
+			"settings":
+			{
+				"buffer_size": 6955,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/D/wamp/www/html/laravel/laravel/app/routes.php",
+			"settings":
+			{
+				"buffer_size": 855,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "@extends('template.master')\n\n@section('content')\n	\n@stop",
+			"file": "create.blade.php",
+			"file_size": 0,
+			"file_write_time": 130371547320345351,
+			"settings":
+			{
+				"buffer_size": 56,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/wamp/www/html/laravel/laravel/app/controllers/SessionsController.php",
+			"settings":
+			{
+				"buffer_size": 1138,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/D/wamp/www/html/laravel/laravel/app/views/template/master.blade.php",
+			"settings":
+			{
+				"buffer_size": 3075,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"laravel",
+				"Laravel Artisan: DB:Seed"
+			],
+			[
+				"generate",
+				"Laravel Generate: Form"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 145.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"laravel",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Brandon/AppData/Roaming/Sublime Text 3/Packages/Laravel 4 Artisan/Laravel 4 Artisan.sublime-settings",
+		"/C/Users/Brandon/AppData/Roaming/Sublime Text 3/Packages/User/Laravel 4 Artisan.sublime-commands",
+		"/D/wamp/www/html/laravel/laravel/app/views/template/master.blade.php",
+		"/D/wamp/www/html/laravel/laravel/app/views/home.blade.php",
+		"/D/wamp/www/html/laravel/laravel/app/controllers/HomeController.php",
+		"/D/wamp/www/html/laravel/laravel/app/views/template/navigation.blade.php",
+		"/D/wamp/www/html/shuttertools/index.php",
+		"/D/wamp/www/html/laravel/laravel/app/views/layout.blade.php",
+		"/D/wamp/www/html/laravel/laravel/app/views/users.blade.php",
+		"/D/wamp/www/html/laravel/laravel/app/database/migrations/2014_01_30_020441_add_users.php",
+		"/D/wamp/www/html/shuttertools/style.css",
+		"/D/wamp/www/html/shuttertools/header.php",
+		"/D/wamp/www/html/shuttertools/footer.php",
+		"/D/wamp/www/html/shuttertools/scraper.php",
+		"/D/wamp/www/html/laravel/laravel/app/config/database.php",
+		"/D/wamp/www/html/laravel/laravel/app/filters.php",
+		"/D/wamp/www/html/laravel/laravel/app/routes.php",
+		"/D/wamp/www/html/laravel/laravel/composer.json",
+		"/D/wamp/www/html/shuttertools/library/NameCheap.php",
+		"/D/Temp Files/TMP/~(24)~index.php",
+		"/D/wamp/apps/phpmyadmin4.0.4/config.inc.php",
+		"/D/wamp/www/html/shuttertools/library/ShutterScraper.php",
+		"/D/wamp/www/html/shuttertools/availability.php",
+		"/D/Temp Files/TMP/~(23)~index.php",
+		"/D/Temp Files/TMP/~(1)~start.php",
+		"/D/Temp Files/TMP/~(1)~paths.php",
+		"/D/Temp Files/TMP/~(1)~composer.json",
+		"/D/Temp Files/TMP/~(1)~server.php",
+		"/D/Temp Files/TMP/~(1)~composer.lock",
+		"/D/Temp Files/TMP/~(0)~routes.php",
+		"/D/Temp Files/TMP/~(17)~.htaccess",
+		"/D/Temp Files/TMP/~(20)~index.php",
+		"/D/Temp Files/TMP/~(0)~start.php",
+		"/D/Temp Files/TMP/~(21)~index.php",
+		"/D/Temp Files/TMP/~(0)~composer.json",
+		"/D/Temp Files/TMP/~(0)~server.php",
+		"/D/Temp Files/TMP/~(0)~composer.lock",
+		"/D/Temp Files/TMP/~(0)~paths.php",
+		"/D/Temp Files/TMP/~(0)~autoload.php",
+		"/D/Temp Files/TMP/~(22)~index.php",
+		"/D/Temp Files/TMP/~(10)~find_domains_nc.php",
+		"/D/wamp/www/html/shuttertools/config.php",
+		"/D/wamp/www/html/shuttertools/blank2.php",
+		"/D/Temp Files/TMP/~(11)~find_domains_nc.php",
+		"/D/wamp/www/html/shuttertools/scraper/library/ShutterScraper.php",
+		"/D/wamp/www/html/shuttertools/functions/functions-domains.php",
+		"/D/wamp/www/html/shuttertools/scraper2.php",
+		"/D/wamp/www/html/shuttertools/scraper/scraper.php",
+		"/D/Temp Files/TMP/~(18)~.htaccess",
+		"/D/wamp/www/html/shuttertools/.htaccess",
+		"/D/wamp/www/html/shuttertools/styles.css",
+		"/D/Temp Files/TMP/~(4)~uberarticles_titles.php",
+		"/D/Temp Files/TMP/~(22)~site.js",
+		"/D/Temp Files/TMP/~(6)~uberarticles_ajax.php",
+		"/D/Temp Files/TMP/~(17)~class.UberArticle.php",
+		"/D/wamp/www/html/shuttertools/caterpillar.php",
+		"/D/Temp Files/TMP/~(7)~ajax.php",
+		"/D/wamp/www/html/shuttertools/scraper/library/inc/RollingCurl.php",
+		"/D/Files/My Documents/@ PHP Scripts/# Scrapers/rolling-curl-master/rolling-curl-master/RollingCurl.php",
+		"/D/Temp Files/TMP/~(23)~find_domains_scraper.php",
+		"/D/Temp Files/TMP/~(15)~find_domains_crawler.php",
+		"/D/Temp Files/TMP/~(24)~find_domains_scraper.php",
+		"/D/Files/My Documents/@ a Websites/@ SEO Analyst/scr/functions.scraper.php",
+		"/D/Files/My Documents/@ a Websites/@ SEO Analyst/scr/classes/UrlMetrics.class.php",
+		"/D/wamp/www/html/shuttertools/scraper/library/inc/RollingCurl_Request.php",
+		"/D/Temp Files/TMP/~(5)~admin_blank.php",
+		"/D/wamp/www/html/shuttertools/scraper/library/inc/Request.php",
+		"/D/wamp/www/html/shuttertools/inc/RollingCurl.php",
+		"/D/wamp/www/html/shuttertools/inc/RollingCurl_Request.php",
+		"/D/wamp/www/html/shuttertools/inc/Request.php",
+		"/C/Users/Brandon/AppData/Roaming/Sublime Text 3/Packages/DocBlockr/Base File.sublime-settings",
+		"/D/Temp Files/TMP/~(0)~find_domains_check_dns.php",
+		"/D/Temp Files/TMP/~(63)~header.php",
+		"/D/Temp Files/TMP/~(1)~update-domain-tracker.php",
+		"/D/Temp Files/TMP/~(16)~tool_domain_tracker.php",
+		"/D/Temp Files/TMP/~(24)~functions-site.php",
+		"/D/Temp Files/TMP/~(21)~site.js",
+		"/D/Files/My Documents/@ a Websites/@ SEO Analyst/scr/find_domains_scraper.php",
+		"/D/Temp Files/TMP/~(14)~UrlMetrics.class.php",
+		"/D/Temp Files/TMP/~(15)~class.UberArticle.php",
+		"/D/Temp Files/TMP/~(16)~class.UberArticle.php",
+		"/D/Temp Files/TMP/~(0)~test_mozapi.php",
+		"/D/Temp Files/TMP/~(176)~error_log",
+		"/D/Temp Files/TMP/~(62)~header.php",
+		"/D/Temp Files/TMP/~(6)~ajax.php",
+		"/D/Temp Files/TMP/~(9)~www_or_nonwww.php",
+		"/D/Temp Files/TMP/~(61)~header.php",
+		"/D/Files/My Documents/@ PHP Scripts/@ jQuery/todo/ajax.php",
+		"/D/Temp Files/TMP/~(0)~playground_ajax.php",
+		"/D/Files/My Documents/@ PHP Scripts/@ jQuery/todo/demo.php",
+		"/D/Temp Files/TMP/~(35)~footer.php",
+		"/D/Temp Files/TMP/~(23)~styles.css",
+		"/D/Temp Files/TMP/~(15)~playground.php",
+		"/D/Temp Files/TMP/~(0)~class.ToDo.php",
+		"/D/Temp Files/TMP/~(0)~uber.js",
+		"/D/Files/My Documents/@ a Websites/@ SEO Analyst/assets/css/bootstrap-checkbox.css",
+		"/D/Files/My Documents/@ PHP Scripts/@ jQuery/todo/todo.class.php",
+		"/D/Files/My Documents/@ PHP Scripts/@ jQuery/surrealtodo/lib/script.js",
+		"/D/Files/My Documents/@ PHP Scripts/@ jQuery/todo/script.js",
+		"/D/Files/My Documents/@ PHP Scripts/@ jQuery/surrealtodo/ajax.php",
+		"/D/Temp Files/TMP/~(14)~playground.php",
+		"/D/Temp Files/TMP/~(4)~download.php",
+		"/D/Temp Files/TMP/~(2)~uberarticles_export.php",
+		"/D/Temp Files/TMP/~(4)~uberarticles_links.php",
+		"/D/Temp Files/TMP/~(5)~uberarticles_convert.php",
+		"/D/Temp Files/TMP/~(5)~uberarticles_ajax.php",
+		"/D/Temp Files/TMP/~(20)~site.js",
+		"/D/Temp Files/TMP/~(14)~class.UberArticle.php",
+		"/D/Temp Files/TMP/~(5)~uberarticles_preview.php",
+		"/D/Temp Files/TMP/~(5)~ajax.php",
+		"/D/Temp Files/TMP/~(3)~uberarticles_titles.php",
+		"/D/Temp Files/TMP/~(39)~style.css",
+		"/D/Temp Files/TMP/~(0)~content_box.php",
+		"/D/Temp Files/TMP/~(22)~functions.php",
+		"/D/Temp Files/TMP/~(0)~js_composer.css",
+		"/D/Temp Files/TMP/~(0)~build.php",
+		"/D/Files/My Documents/@ a Websites/Best Penny Stocks/@ Theme/css/app.v2.css",
+		"/D/Files/My Documents/@ Wordpress Themes/Jupiter.Multipurpose.Responsive.Theme.v3.5.4/jupiter/functions.php",
+		"/D/Temp Files/TMP/~(0)~helpers.php",
+		"/D/Temp Files/TMP/~(1)~shortcodes.php",
+		"/D/Temp Files/TMP/~(0)~custom_box.php",
+		"/D/Temp Files/TMP/~(38)~style.css",
+		"/D/Temp Files/TMP/~(1)~mk_fancy_title.php",
+		"/D/Temp Files/TMP/~(0)~wp_bakery_visual_composer.php",
+		"/D/Temp Files/TMP/~(0)~layouts.php",
+		"/D/Temp Files/TMP/~(1)~vc_accordions.php",
+		"/D/Temp Files/TMP/~(3)~vc_tabs.php",
+		"/D/Temp Files/TMP/~(2)~vc_tab.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"alert",
+			"alwer",
+			"aert",
+			"alert",
+			"domain",
+			"// ==-==-==-==-==-==-==-==-==-==",
+			"<?php bloginfo('template_url'); ?>/",
+			"<?php bloginfo('template_url'); ?>",
+			"<?php bloginfo('template_url'); ?>/",
+			"<?php bloginfo('template_url'); ?>",
+			"this->all_ext",
+			"UberTitles(",
+			"Proxy set",
+			"addRequest",
+			"$link_id",
+			"checkUrlExists",
+			"$link_id",
+			"$this->pagesRequested[$url] =",
+			"$this->crawl",
+			"parseHtml",
+			"crawls",
+			"crawled",
+			"`crawled`",
+			"`crawled`=",
+			"crawled=",
+			"pagesRequested",
+			"addScrapeUrl",
+			"addrequest",
+			"pagesRequested",
+			"page_cache",
+			"php",
+			"class",
+			"$domains",
+			"<pre>",
+			"this->",
+			"pa",
+			"nestable_list_3",
+			"	  ",
+			".container",
+			".container {",
+			"    ",
+			"ajax.php",
+			".live",
+			"$add_html",
+			"attr",
+			".on",
+			"ion",
+			".on",
+			"ajax",
+			"    ",
+			"fa-search",
+			"font.css",
+			"isotope-css",
+			"font",
+			"icon",
+			"pencil",
+			"icon-pencil",
+			"mk-icon-pencil",
+			"    ",
+			"font",
+			"icon",
+			"css",
+			"blockqu",
+			"accor",
+			"accord",
+			"best",
+			"$this->keywords",
+			"p_limit",
+			"icon_box",
+			"    ",
+			"build",
+			"btn-group m-b",
+			"step-content",
+			"wizard",
+			"    ",
+			".attr(\"checked\"",
+			".prop(\"checked\"",
+			"btn-default active",
+			"input[type=radio]",
+			"jquery",
+			"INPUT",
+			"attr",
+			"landing",
+			"weddingseason",
+			"img",
+			"btn-group m-b",
+			"btn",
+			"ver",
+			"version",
+			"implore",
+			"p_count",
+			"%k%",
+			"    ",
+			"wrap",
+			"wra[",
+			"GrabTitles",
+			"$article_raw[$p][]",
+			"$p_limit--",
+			"$article_raw",
+			"mt_rand",
+			"--$p_limit",
+			"$article",
+			"$paragraphs_list",
+			"$paragraph",
+			"$paragraphs",
+			"width=\"55\"",
+			"width=\"35\"",
+			"running..",
+			"domain_list",
+			"$domains_arr_good",
+			"$domains_arr_failed",
+			"$domains_arr_good",
+			"  ",
+			"token",
+			"    ",
+			"get_option",
+			"attempts",
+			"maxpage",
+			"pagesRequested",
+			"checkIfFirstRequest",
+			"page_cache",
+			"finalize",
+			"reset",
+			"resetRequests",
+			"addRequest",
+			"reset",
+			"  // posting data w/ this request?\n        if ($request->post_data) {\n            $options[CURLOPT_POST] = 1;\n            $options[CURLOPT_POSTFIELDS] = $request->post_data;",
+			"__set($na"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"host",
+			"// ==-==-==-==-==-==-==-==-==-==-==-==-==-==-==-==",
+			"",
+			"all_ext",
+			"	",
+			"\\t",
+			"playground_ajax.php",
+			"\\t",
+			"btn-group",
+			"\\t",
+			".prop(\"checked\"",
+			".attr(\"checked\"",
+			"btn-default",
+			"input:radio",
+			"input",
+			"season",
+			"btn-group m-b clear",
+			"btn btn-default",
+			"{keyword}",
+			"\\t",
+			"GrabGenericTitles",
+			"$article_raw[]",
+			"--$p_limit",
+			"$p_limit--",
+			"width=\"100\"",
+			"width=\"55\"",
+			"\\t",
+			"addScrapeUrl",
+			"\\t",
+			"$this->running",
+			"$",
+			"",
+			"$",
+			"\\t",
+			"request",
+			"	 *",
+			"\\t",
+			"SHUTTER",
+			"\\t",
+			"$site['useremail']",
+			"$site['user']",
+			"$site['url']",
+			"$_POST['username']",
+			"$site['url']",
+			"$_GET['errormsg']",
+			"$_GET['registered']",
+			"$_GET['go']"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/D/wamp/www/html/laravel/laravel/app/config/app.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6955,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3904,
+								3904
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1453.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/D/wamp/www/html/laravel/laravel/app/routes.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 855,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								855,
+								855
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "create.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 56,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								50,
+								50
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/D/wamp/www/html/laravel/laravel/app/controllers/SessionsController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1138,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								156,
+								156
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/D/wamp/www/html/laravel/laravel/app/views/template/master.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3075,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								933,
+								933
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Laravel Blade Highlighter/laravel-blade.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "Shuttertools.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 242.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

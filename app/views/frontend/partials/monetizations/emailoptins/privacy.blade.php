@@ -1,0 +1,1 @@
+<small><i class="fa fa-lock"></i> We respect your <a href="{{ route('project/privacy', [$project->slug, $project->tld]) }}">privacy</a></small>
